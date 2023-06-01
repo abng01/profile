@@ -39,7 +39,9 @@ body {
   list-style: none;
   display: flex;
   justify-content: space-evenly;
-  padding: 0px 500px;
+  padding: 0px;
+  width: 300px;
+  margin: auto;
 }
 
 #profile_pic {
